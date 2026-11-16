@@ -1,24 +1,78 @@
-<p align="center"><img src="./assets/hero.svg?v=1" width="100%" alt="Assalam-o-Alaikum, I'm Akasha Azhar. AiSecOps Engineer, offensive security, autonomous AI agents, founder of NextaSol. I break software to learn how to build it safer, then build AI agents that do the work with me. Rawalpindi / Islamabad." /></p>
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/313/hero-mobile.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/313/hero.png">
+  <source media="(max-width: 600px)" srcset="./assets/313/hero-mobile.gif">
+  <img src="./assets/313/hero.gif" width="100%" alt="Akasha Azhar / 313. AiSecOps at Digiinn360 and founder of NextaSol. Based in Islamabad, Pakistan.">
+</picture>
 
-<p align="center"><img src="./assets/about-life.svg?v=1" width="100%" alt="What I do: offensive security, AI security operations, autonomous agents, local AI, full-stack products. Off the clock: agentic AI, CTF and reverse engineering, reading the market with VSA and Wyckoff, hardware tinkering." /></p>
+<p align="center"><a href="https://akashaazhar.com">Portfolio</a> · <a href="https://www.linkedin.com/in/akashaazhar313/">LinkedIn</a> · <a href="https://nextasol.com">NextaSol</a> · <a href="mailto:nextasol.com@gmail.com">Email</a></p>
 
-<p align="center"><img src="./assets/stack.svg?v=1" width="100%" alt="My stack: Python, C++, Go, Rust, Claude, Ollama, Hugging Face, OpenAI, Gemini, Kali, Metasploit, Wireshark, Docker, PostgreSQL, React, FastAPI, with grouped security, AI, build and infra tools." /></p>
+I work at the intersection of cybersecurity, AI agents and software engineering. I’m studying BS Cyber Security at STMU and building Nextrator at NextaSol.
 
-## Projects
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/313/section-builds-mobile.png">
+  <img src="./assets/313/section-builds.png" width="100%" alt="Selected builds">
+</picture>
 
-| Project | What it is | Status |
-| :--- | :--- | :--- |
-| **Nextrator** | NextaSol's continuous threat exposure management platform: finds exposed websites, servers, APKs and binaries, validates findings with a test harness, fixes configs or routes issues to developers, and keeps watching. PISF compliance mapping. | In development |
-| **Ababeel** | Multi-agent security engine for pentest workflows, binary analysis and fuzzing, with long-term agent memory (Hermes, Cognee, Honcho, Ghidra, QEMU). | In development |
-| **CyberVanguard** | Security assistant fine-tuned from Llama 3 with QLoRA on one RTX 3060, exported to GGUF and served offline with Ollama. | Working |
-| **WA-VoiceAgent** | WhatsApp AI agent for Pakistani small businesses, switching between Urdu, English and Punjabi. FastAPI, NestJS, Next.js, pgvector, Redis. | Chat path live |
-| **[XploitSnare](https://github.com/AkashaAzhar/XploitSnare)** | Python web application scanner for common OWASP Top 10 weaknesses. | Public repo |
-| **Autonomous SIEM** | STMU final year project: AI-driven SIEM using UEBA for anomaly detection, alert triage and response. | In progress |
-| **Colosseum CyberRange** | Range behind CyberStrike CTF and King of the Hill at NASCON 2026, FAST-NUCES Islamabad. Platform architect and co-host. | Deployed |
-| **Buz Fuz** | Professional work on an AI-driven fuzzing and vulnerability-analysis platform. | Work project |
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/313/nextrator-mobile.png">
+  <img src="./assets/313/nextrator.png" width="100%" alt="Nextrator, in development. Continuous threat exposure management at NextaSol.">
+</picture>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/313/projects-agents-mobile.png">
+  <img src="./assets/313/projects-agents.png" width="100%" alt="Ababeel explores agent orchestration and memory for security workflows. CyberVanguard is a local security assistant fine-tuned from Llama 3 on an RTX 3060.">
+</picture>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/313/projects-tools-mobile.png">
+  <img src="./assets/313/projects-tools.png" width="100%" alt="XploitSnare is a public Python web security scanner. WA-VoiceAgent explores multilingual WhatsApp assistance in Urdu, English and Punjabi.">
+</picture>
+
+[XploitSnare repository](https://github.com/AkashaAzhar/XploitSnare) · [Explore NextaSol](https://nextasol.com)
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/313/section-evidence-mobile.png">
+  <img src="./assets/313/section-evidence.png" width="100%" alt="Applied work">
+</picture>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/313/evidence-mobile.png">
+  <img src="./assets/313/evidence.png" width="100%" alt="Yalla Delivery incident response, Colosseum CyberRange, and ASP.NET Core MVC bookstore.">
+</picture>
+
+**Yalla Delivery:** Helped mitigate GraphQL abuse with Cloudflare WAF, rate limits and AWS origin hardening. **Colosseum:** Worked with Digiinn360 on CTF and King of the Hill infrastructure. **Bookstore:** Built an N-tier application with ASP.NET Core MVC, Entity Framework Core and SQL Server.
+
+**Research presentation** · Amaan Masood and I presented an approach to APT threat attribution using static analysis and clustering. [Presentation on LinkedIn](https://www.linkedin.com/posts/akashaazhar313_an-automated-approach-for-real-world-threat-activity-7391338435023806464-xUXM)
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/313/section-stack-mobile.png">
+  <img src="./assets/313/section-stack.png" width="100%" alt="The workbench">
+</picture>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/313/stack-mobile.png">
+  <img src="./assets/313/stack.png" width="100%" alt="Tools across security, AI and agents, software engineering, and infrastructure.">
+</picture>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/313/identity-mobile.png">
+  <img src="./assets/313/identity.png" width="100%" alt="AiSecOps at Digiinn360. Founder of NextaSol. BS Cyber Security at STMU. Shifa Cyber Security Society ambassador.">
+</picture>
 
 <details>
 <summary><strong>More builds, client work and experiments</strong></summary>
+
+### Security, AI & Software Projects
+
+| Project | Scope |
+| :--- | :--- |
+| **Autonomous SIEM** | Final year project on anomaly detection and alert triage using user and entity behavior analytics. |
+| **Buz Fuz** | Professional work on an AI-assisted software security analysis platform. |
+| **Local LLM Batch Document Engine** | Offline document analysis with Python, Ollama, PyMuPDF and SQLite. |
+| **Internship Portal** | Task sequencing, submission reviews, email notifications and certificates. |
+| **NextaLearn LMS** | React and FastAPI platform with PostgreSQL, role-based access, course progress and certificates. |
+| **ASP.NET Core MVC Bookstore** | C#, Entity Framework Core and SQL Server in an N-tier application. |
 
 ### Agentic Engineering Toolkit
 
@@ -31,7 +85,7 @@
 
 | Project / area | Scope |
 | :--- | :--- |
-| **NextaSol Product Suite** | NextaBMS (business management), NextaSec (WordPress security plugin), NextaForms (smart forms), NextaPost AI (social post generation) and NextaLearn (LMS), plus an AI chat app at chat.akashaazhar.com. |
+| **NextaSol Product Suite** | NextaBMS (business management), NextaSec (WordPress security plugin), NextaForms (smart forms), and NextaPost AI (social post generation), plus an AI chat app at chat.akashaazhar.com. |
 | **AI Voice & Calling Agent** | A calling-agent solution combining workflow orchestration, Whisper speech recognition, ElevenLabs voices and LLM reasoning. |
 | **EV Ride-Hailing Platform** | Client work on a passenger, driver and guardian mobile app in Flutter with a separate admin web panel. |
 | **Digital Alumni Platform** | Product coordination, bug triage and user-acceptance testing for an alumni association's mobile platform. |
@@ -75,21 +129,21 @@ The following are concepts or previously discussed project directions; they are 
 
 </details>
 
-<p align="center"><img src="./assets/id-dashboard.svg?v=1" width="100%" alt="ID card for Akasha Azhar, AiSecOps Engineer and Founder of NextaSol. On the record as of November 2026: founded NextaSol in 2024, 8 countries served, 18 certifications, co-hosted NASCON CyberRange in 2026, 6th semester, graduating 2027. Now building Nextrator." /></p>
-
 <details>
 <summary><strong>Experience & community — leadership, teaching and practical work</strong></summary>
 
 | Role | Organization / contribution |
 | :--- | :--- |
-| **Founder** | **NextaSol**, formerly **SoftCloud**. Founded an AI-powered agency offering software and web development, e-commerce, AI solutions and chatbots, cybersecurity and DevSecOps, ISO 27001 / ISO 42001-aligned audits, cloud and IT consultancy, branding, and digital marketing, with clients across Pakistan, Saudi Arabia, the UAE, the UK, the USA, Canada, Australia and Turkey. |
-| **AiSecOps Engineer & Senior VAPT/WAPT Specialist** | **DigiInn360**. Work across AI-assisted security operations and vulnerability assessment / penetration testing. |
-| **Platform Architect & Co-Host** | **Colosseum CyberRange**, CyberStrike CTF & King of the Hill, NASCON 2026, FAST-NUCES Islamabad. |
+| **Founder** | **NextaSol**. Software, e-commerce, AI solutions, cybersecurity, cloud and IT consulting, branding and digital marketing. |
+| **AiSecOps Engineer** | **DigiInn360**. Work across AI-assisted security operations and vulnerability assessment / penetration testing. |
+| **CyberRange Team** | **Colosseum CyberRange**, CyberStrike CTF & King of the Hill, 2026, FAST-NUCES Islamabad. |
 | **Ambassador** | **Shifa Cyber Security Society**, Shifa Tameer-e-Millat University. |
 | **WordPress Developer & Store Manager** | **Softronix IT Services**. Website development and e-commerce store management during my studies. |
 | **Cybersecurity Intern** | **Air University, Islamabad**. Early practical exposure to cybersecurity through a short internship. |
 | **Digital Marketing Instructor** | Three months of teaching experience in digital marketing. |
 | **Event Designer & Organizer** | **Huawei event at STMU (2024)**. Received a Certificate of Appreciation. |
+| **Workshop facilitator** | Cybersecurity awareness and digital forensics workshop for medical and biotechnology students at STMU. |
+| **SOC internship** | ITSolera. |
 
 </details>
 
@@ -98,7 +152,7 @@ The following are concepts or previously discussed project directions; they are 
 
 | Qualification | Institution | Period |
 | :--- | :--- | :--- |
-| **BS Cyber Security** | Shifa Tameer-e-Millat University (STMU), Islamabad | 2023-2027 · In progress |
+| **BS Cyber Security** | Shifa Tameer-e-Millat University (STMU), Islamabad | 2023–present |
 | **Diploma of Associate Engineer - Computer Information Technology** | KRL Institute of Technology, Kahuta | 2020-2023 · Completed; 77% overall, 82% in the final year |
 | **Matriculation - Computer Science** | Pole Star Model High School | 2020 |
 
@@ -121,11 +175,6 @@ The following are concepts or previously discussed project directions; they are 
 | **Claude 101; Claude Code in Action; AI Fluency for Small Businesses** | Anthropic |
 | **Create Your First Gemini Enterprise Application** | Google Cloud Skills Boost |
 
-<!-- Optional claim retained from the Gemini source draft:
-"Verified researcher under Anthropic's Cybersecurity Verification Program."
-Confirm the exact program status before displaying this publicly.
-This is separate from Anthropic course-completion certificates. -->
-
 </details>
 
 <details>
@@ -135,9 +184,9 @@ Technologies I work with or have explored across projects, coursework, and resea
 
 | Area | Tools & technologies |
 | :--- | :--- |
-| **Languages & Web Fundamentals** | Python, C, C++, Java, JavaScript, TypeScript, PHP, Go, Rust (Tauri), Bash, PowerShell, SQL, x86 Assembly, HTML, CSS |
-| **Frontend & Application Development** | React, Next.js, Vite, Tailwind CSS, shadcn/ui, Flowbite, TailAdmin, Zustand, Bootstrap, jQuery, Node.js, Express, NestJS, FastAPI, CodeIgniter, Flutter, Tauri 2, Streamlit, Tkinter, PyQt, Java Swing / JavaFX |
-| **Databases & Backend Services** | PostgreSQL + pgvector, MySQL, MariaDB, SQLite, Redis, Supabase, MySQL Workbench, phpMyAdmin |
+| **Languages & Web Fundamentals** | Python, C, C#, C++, Java, JavaScript, TypeScript, PHP, Go, Rust (Tauri), Bash, PowerShell, SQL, x86 Assembly, HTML, CSS |
+| **Frontend & Application Development** | React, Next.js, Vite, Tailwind CSS, shadcn/ui, Flowbite, TailAdmin, Zustand, Bootstrap, jQuery, Node.js, Express, NestJS, FastAPI, ASP.NET Core MVC, CodeIgniter, Flutter, Tauri 2, Streamlit, Tkinter, PyQt, Java Swing / JavaFX |
+| **Databases & Backend Services** | PostgreSQL + pgvector, MySQL, SQL Server, MariaDB, SQLite, Redis, Supabase, MySQL Workbench, phpMyAdmin |
 | **Offensive Security & Reverse Engineering** | VAPT, WAPT, Nmap, Nikto, WPScan, Metasploit, Ettercap, theHarvester, dnsrecon / dnsenum, Nessus, OWASP tooling, Ghidra, QEMU, FLOSS, binary analysis, fuzzing, CTEM |
 | **Network & Defensive Security** | Wireshark, Scapy, pfSense, Snort, Wazuh, QRadar, Cisco Packet Tracer, TLS traffic analysis, SIEM architecture, threat hunting |
 | **AI & Agent Systems** | Hermes, Cognee, Honcho, Nemo Claw, Ollama, llama.cpp, Hugging Face, Unsloth, LoRA / QLoRA / PEFT, GGUF, OpenAI API, Gemini / Vertex AI, AWS Bedrock, Claude Code CLI, ElevenLabs, Whisper, Tavily, OpenCV, DeepFace, PyMuPDF |
@@ -163,11 +212,9 @@ Technologies I work with or have explored across projects, coursework, and resea
 
 </details>
 
-<p align="center"><img src="./assets/connect.svg?v=1" width="100%" alt="Let's connect: LinkedIn, email, NextaSol and akashaazhar.com." /></p>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/313/connect-mobile.png">
+  <img src="./assets/313/connect.png" width="100%" alt="Connect with Akasha about security research, agent systems and software.">
+</picture>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/akashaazhar313/"><strong>LinkedIn</strong></a> &nbsp;|&nbsp;
-  <a href="mailto:nextasol.com@gmail.com"><strong>Email</strong></a> &nbsp;|&nbsp;
-  <a href="https://nextasol.com"><strong>NextaSol</strong></a> &nbsp;|&nbsp;
-  <a href="https://akashaazhar.com"><strong>akashaazhar.com</strong></a>
-</p>
+<p align="center"><a href="https://akashaazhar.com">Portfolio</a> · <a href="https://www.linkedin.com/in/akashaazhar313/">LinkedIn</a> · <a href="https://nextasol.com">NextaSol</a> · <a href="mailto:nextasol.com@gmail.com">Email</a></p>
